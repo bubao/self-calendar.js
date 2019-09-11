@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "bubao",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubao/self-calendar.js.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "bugs": {
+    "url": "https://github.com/bubao/self-calendar.js/issues"
+  },
+  "homepage": "https://github.com/bubao/self-calendar.js#readme"
 }
